@@ -1,2 +1,2 @@
 # Detecting-Spam-Not-Spam
-Detecting if an Amazon Review is Spam or not Spam
+This project aims to classify a review as spam or not spam in the Amazon reviews dataset.
